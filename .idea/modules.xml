@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/circlefk.iml" filepath="$PROJECT_DIR$/circlefk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circlefk-bff/circlefk-bff.iml" filepath="$PROJECT_DIR$/circlefk-bff/circlefk-bff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circlefk-service/circlefk-service.iml" filepath="$PROJECT_DIR$/circlefk-service/circlefk-service.iml" />
+    </modules>
+  </component>
+</project>

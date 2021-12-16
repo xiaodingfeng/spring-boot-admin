@@ -1,0 +1,5 @@
+com\ciicgat\circlefk\RedisTest.class
+com\ciicgat\circlefk\auth\AdminTest.class
+com\ciicgat\circlefk\auth\RoleTest.class
+com\ciicgat\circlefk\auth\AdminRoleTest.class
+com\ciicgat\circlefk\MybatisTest.class
